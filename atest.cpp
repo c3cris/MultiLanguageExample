@@ -6,12 +6,12 @@ int main()
   
   int flag = 1;
   std::string write;
-  while (flag == 1){
+  while (  flag ==  1 ){
     std::cout << "Write Something:\n";
     std::cin >> write;
     std::cout << "You typed:"<< write <<" \n";
-    if (write ==     "q"){
-      flag = 0;
+    if (  write ==     "q"){
+      flag=0;
     }
   }
   std::cout << "Quit Program";
