@@ -10,7 +10,7 @@
     puts         "Write Something:"
     write = gets
     puts         "You typed:" + write
-    if    write ==     "q\n"
+    if        write ==     "q\n"
       flag=0
     end
   end

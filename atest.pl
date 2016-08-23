@@ -10,7 +10,7 @@
     print        "Write Something:\n";
     $write = <>;
     print        "You typed:". $write;
-    if(  $write eq     "q\n"){
+    if(      $write eq     "q\n"){
      $flag=0;
     }
   }

@@ -10,7 +10,7 @@ public static void main(String[] args) {
     out.println( "Write Something:");
     write = scan.next();
     out.println( "You typed:" + write);
-    if (  write.equals("q") ){
+    if (      write.equals("q") ){
       flag=0;
     }
   }

@@ -10,7 +10,7 @@
     echo         "Write Something:";
     read write
     echo         "You typed: $write";
-    if [ $write ==     "q" ]; then
+    if [     $write ==     "q" ]; then
       flag=0;
     fi
 done

@@ -10,7 +10,7 @@ int main()
     std::cout << "Write Something:\n";
     std::cin >> write;
     std::cout << "You typed:"<< write <<" \n";
-    if (  write ==     "q"){
+    if (      write ==     "q"){
       flag=0;
     }
   }

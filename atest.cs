@@ -10,7 +10,7 @@ public static void Main()
     WriteLine(   "Write Something:");
     write = ReadLine();
     WriteLine(   "You typed:" + write);
-    if (  write ==     "q"){
+    if (      write ==     "q"){
       flag=0;
     }
   }

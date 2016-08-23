@@ -10,7 +10,7 @@ if __name__ == '__main__':
     print(       "Write Something:")
     write = input("") if sys.version_info >= (3,0) else raw_input("")
     print(       "You typed:" + write)
-    if    write ==     "q":
+    if        write ==     "q":
       flag=0
 
 
