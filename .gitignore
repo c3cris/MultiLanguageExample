@@ -1,0 +1,6 @@
+atest/
+atestcs/
+*.lnk
+atestjava/
+*.class
+test.java
