@@ -5,7 +5,7 @@
 int main(int argc, const char * argv[]) {
 @autoreleasepool {
   int flag = 1;
-  char write[5];
+  char write[200];
   while (  flag ==  1 ){
     NSLog(      @"Write Something:");
     scanf("%s", write);

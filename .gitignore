@@ -1,6 +1,8 @@
 atest/
+atestc/
 atestcs/
-*.lnk
 atestjava/
+*.lnk
 *.class
 test.java
+*.js

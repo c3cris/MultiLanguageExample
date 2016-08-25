@@ -8,6 +8,7 @@ They should all run and compile just fine with standard libraries only, btw.
 
 ![alt tag](http://i.giphy.com/a6FyDO69QC0U0.gif)
 
+* C
 * C++
 * C#
 * Objective C
@@ -21,5 +22,10 @@ They should all run and compile just fine with standard libraries only, btw.
 Soon
 * Javascript (NodeJs) Could not code it without breaking the pattern or using NPM readline-sync which is not standard.
 * Go
+* Dart
+* R
+* Erlang
+* Swift
+* Visual Basic
 
 Suggestion?
