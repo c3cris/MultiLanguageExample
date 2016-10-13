@@ -21,6 +21,7 @@ They should all run and compile just fine with standard libraries only, btw.
 * Ruby
 * Bash
 * Go
+* Lisp
 
 Soon
 * Javascript (NodeJs) Could not code it without breaking the pattern or using NPM readline-sync which is not standard.
