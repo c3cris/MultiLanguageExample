@@ -1,8 +1,8 @@
 # MultiLanguageExample
 
-I got bored and wanted to create a simple app that reads user input and prints the input until user supplies "q" to quit program, then I tried to see in how many languages I can write them in.
+I got bored and wanted to create a simple app that reads user input and prints the input until the user supplies "q" to quit the program. Then I tried to see in how many languages I could write this program.
 
-Please note that formating and the way they are written was done on purpose to cycle through all programs and see the similarities as they might not follow language specific conventions:
+Please note that the formatting and the way the examples are written were done on purpose so that cycling through all the programs would show their similarities, which is why they might not follow language specific conventions.
 
 They should all run and compile just fine with standard libraries only, btw.
 
@@ -12,6 +12,7 @@ They should all run and compile just fine with standard libraries only, btw.
 * C++
 * C#
 * Objective C
+* Haskell
 * Java
 * PHP
 * Python (2 and 3)
@@ -28,4 +29,4 @@ Soon
 * Swift
 * Visual Basic
 
-Suggestion?
+Suggestions?
