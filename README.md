@@ -21,12 +21,12 @@ They should all run and compile just fine with standard libraries only, btw.
 * Ruby
 * Bash
 * Go
+* Erlang
 
 Soon
 * Javascript (NodeJs) Could not code it without breaking the pattern or using NPM readline-sync which is not standard.
 * Dart
 * R
-* Erlang
 * Swift
 * Visual Basic
 
