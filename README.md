@@ -15,6 +15,7 @@ They should all run and compile just fine with standard libraries only, btw.
 * Haskell
 * Java
 * PHP
+* Lua
 * Python (2 and 3)
 * Perl
 * Ruby
